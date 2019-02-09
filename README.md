@@ -1,2 +1,2 @@
 #jenkins2
-モンテカルロの実施
+gitをトリガーにjenkinsを動かす
