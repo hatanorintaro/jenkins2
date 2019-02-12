@@ -1,2 +1,2 @@
 #jenkins2
-gitをトリガーにjenkinsを動かす
+gitのpushをトリガーにjenkinsを動かす
