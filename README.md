@@ -1,3 +1,4 @@
 #jenkins2
-gitのpushをトリガーにjenkinsを動かす
-success
+1 2000 4
+3 2000 4
+5 2000 4
